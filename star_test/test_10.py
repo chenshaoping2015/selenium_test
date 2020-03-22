@@ -5,7 +5,7 @@ import time
 
 driver = webdriver.Chrome()
 driver.maximize_window()
-driver.get('file:///C:/Users/stevechen/Desktop/test.html')
+driver.get('file:///C:/Users/stevechen/Desktop/testhtml/test_checkbox.html')
 driver.implicitly_wait(2)
 
 # checkbox

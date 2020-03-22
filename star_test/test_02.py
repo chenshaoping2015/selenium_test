@@ -1,7 +1,7 @@
 import time
 from selenium import webdriver
-from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.wait import WebDriverWait
 
 driver = webdriver.Chrome()#打开chrome浏览器
 driver.maximize_window()#最大化浏览器窗口

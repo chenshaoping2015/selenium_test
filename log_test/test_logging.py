@@ -13,7 +13,7 @@ class TestMyLog(object):
         mylogger.info("打开浏览器")
         driver.maximize_window()
         mylogger.info("最大化浏览器窗口。")
-        driver.implicitly_wait(8)
+        driver.implicitly_wait(2)
 
         driver.get("https://www.baidu.com")
         mylogger.info("打开百度首页。")

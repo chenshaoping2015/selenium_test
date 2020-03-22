@@ -96,6 +96,10 @@ test_18:
     (1)用get_attribute方法获取页面所有href;
 test_19:
     (1)用get_screenshot_as_file方法进行截图;
+test_20:
+    (1)div弹窗的定位方法，get_cookies()的用法;
+test_21:
+    (1)split()的用法;
 ----------------------------------------------------------------------------------
 model_test模块
 
