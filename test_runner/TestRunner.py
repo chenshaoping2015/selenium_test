@@ -7,9 +7,9 @@ from testsuites.test_nba_news_views import ViewNBANews
 from base_file import HTMLTestRunner
 import time
 
-suite = unittest.TestSuite()
+#suite = unittest.TestSuite()
 #suite.addTest(BaiduSearch('test_baidu_search'))
-suite.addTest(GetPageTitle('test_get_title'))
+#suite.addTest(GetPageTitle('test_get_title'))
 #suite.addTest(ViewNBANews('test_view_nba_news'))
 
 if __name__=='__main__':

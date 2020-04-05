@@ -1,7 +1,0 @@
-2020-02-15 17:52:25,436 - BrowserEngine - INFO - You had select Chrome browser.
-2020-02-15 17:52:25,436 - BrowserEngine - INFO - The test server url is :https://www.baidu.com
-2020-02-15 17:52:31,158 - BrowserEngine - INFO - Starting Chrome browser.
-2020-02-15 17:52:32,091 - BrowserEngine - INFO - Open url:https://www.baidu.com
-2020-02-15 17:52:38,221 - BrowserEngine - INFO - Maximize the current window.
-2020-02-15 17:52:38,223 - BrowserEngine - INFO - Set implicitly wait 6 seconds.
-2020-02-15 17:52:38,229 - BasePage - INFO - Current page title is 百度一下，你就知道

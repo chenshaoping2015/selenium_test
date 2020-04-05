@@ -34,5 +34,3 @@ class ViewNBANews(unittest.TestCase):
         time.sleep(2)
         sportnewhome.take_screenshot()
 
-if __name__=='__main__':
-    unittest.main()

@@ -72,7 +72,6 @@ class BasePage(object):
         :return:
         '''
         root_dir = os.path.abspath(os.path.join(os.getcwd(), "../.."))
-        print(root_dir)
         file_path = root_dir+'/Screenshots/'
         print(file_path)
         rq = time.strftime('%Y%m%d%H%M%S',time.localtime(time.time()))

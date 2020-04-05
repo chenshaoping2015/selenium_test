@@ -1,5 +1,0 @@
-Sun, 22 Mar 2020 22:08:44 log_test.py[line:14] DEBUG debug message
-Sun, 22 Mar 2020 22:08:44 log_test.py[line:15] INFO info message
-Sun, 22 Mar 2020 22:08:44 log_test.py[line:16] WARNING warning message
-Sun, 22 Mar 2020 22:08:44 log_test.py[line:17] ERROR error message
-Sun, 22 Mar 2020 22:08:44 log_test.py[line:18] CRITICAL critical message

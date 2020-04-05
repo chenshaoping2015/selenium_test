@@ -38,7 +38,3 @@ class BaiduSearch(unittest.TestCase):
         except Exception as e:
             print('Test Fail.', format(e))
 
-
-if __name__ == '__main__':
-    unittest.main()
-
